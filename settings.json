@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Gay Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "MutahDih",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I love dih",
+        "butt loves dih",
+        "gay porn"
       ]
     },
     "chat-log": true,
